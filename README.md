@@ -2,7 +2,7 @@
 
 
 
-    💻 I’m currently working with Cardlytics as an Associate Software Engineer
+    💻 I’m an Associate Software Engineer at Cardlytics by profession and a Mission Advocate at Widhya by passion 
     🌱 I’m currently learning NLP
     👯 I’m looking to collaborate for project on NLP
     💬 Ask me about anything, I'm happy to help!
