@@ -1,6 +1,6 @@
-# neha-duggirala
+# Hey there👋!! I'm Neha
 
-Hey there 👋
+
 
     💻 I’m currently working with Cardlytics as an Associate Software Engineer
     🌱 I’m currently learning NLP
