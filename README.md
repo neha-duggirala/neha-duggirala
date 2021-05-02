@@ -2,7 +2,7 @@
 
 
 
-    💻 I’m a Software Engineer-I at Cardlytics by profession and a Mission Advocate at Widhya by passion 
+    💻 I’m a Data Science Analyst at Cardlytics by profession
     🌱 I’m currently learning NLP
     👯 I’m looking to collaborate for project on NLP
     💬 Ask me about anything, I'm happy to help!
