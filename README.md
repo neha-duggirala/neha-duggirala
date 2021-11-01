@@ -2,7 +2,7 @@
 
 
 
-    💻 I’m a Data Science Analyst at Cardlytics by profession
+    💻 I work for Cardlytics as a Data Science Analyst
     🌱 I’m currently learning NLP
     👯 I’m looking to collaborate for project on NLP
     💬 Ask me about anything, I'm happy to help!
