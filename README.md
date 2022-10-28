@@ -2,7 +2,7 @@
 
 
 
-    💻 I work for Cardlytics as a Data Science Analyst
+    💻 I work for Shell as an MLE
     🌱 I’m currently learning NLP
     👯 I’m looking to collaborate for project on NLP
     💬 Ask me about anything, I'm happy to help!
