@@ -1,13 +1,12 @@
 # Hey there👋!! I'm Neha
 
-    💻 Shell's MLE by day, coding enthusiast by night
-    🌱 Delving into the fascinating world of NLP
+    💻 Data Scientist at Sberbank, Gen AI enthusiast by night
+    🌱 Delving into the fascinating world of NLP, Generative AI, Agents, MCP etc.
     👯 Seeking exciting collaborations for mind-blowing NLP projects
     💬 Need a hand or have burning questions? I'm here to assist!
     📫 Reach out to me at nsm.duggirala@gmail.com
     ⚡ Fun fact: I'm powered by plants! Proud vegan here! 😁
     
- ![Neha's github stats](https://github-readme-stats.vercel.app/api?username=neha-duggirala&show_icons=true&theme=radical)
 
 
 ![Follows](https://img.shields.io/github/followers/neha-duggirala?style=social)
