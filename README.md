@@ -1,6 +1,6 @@
 # Hey there👋!! I'm Neha
 
-    💻 Data Scientist at Sberbank, Gen AI enthusiast by night
+    💻 Data Scientist at Sberbank, Gen AI enthusiast
     🌱 Delving into the fascinating world of NLP, Generative AI, Agents, MCP etc.
     👯 Seeking exciting collaborations for mind-blowing NLP projects
     💬 Need a hand or have burning questions? I'm here to assist!
